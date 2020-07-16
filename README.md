@@ -60,7 +60,7 @@ Beside's developing stuff, I enjoy listening music 🎧, reading book 📚, and 
 
 
 <a href="https://github.com/chiragsamal/Zomato">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuragshukla06&repo=Zomato" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=chiragsamal&repo=Zomato" />
 </a>
 
 <a href="https://github.com/chiragsamal/Microsoft-Malware-Prediction">
