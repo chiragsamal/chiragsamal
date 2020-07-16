@@ -53,14 +53,14 @@ Beside's developing stuff, I enjoy listening music 🎧, reading book 📚, and 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
-![Govind's github stats](https://github-readme-stats.vercel.app/api?username=chiragsamal&show_icons=true&hide_border=true)
+![Chirag's github stats](https://github-readme-stats.vercel.app/api?username=chiragsamal&show_icons=true&hide_border=true)
 
 
 ⭐️ Recent projects in which I have created and contributed [Chirag Samal](https://github.com/chiragsamal)
 
 
 <a href="https://github.com/chiragsamal/Zomato">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=chiragsamal&repo=Zomato" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuragshukla06&repo=Zomato" />
 </a>
 
 <a href="https://github.com/chiragsamal/Microsoft-Malware-Prediction">
