@@ -28,7 +28,7 @@ Beside's developing stuff, I enjoy listening music 🎧, reading book 📚, and 
 
 - ⚡️ Co-founder of The School of ML  👨🏽‍💻 
 - 🎓 GirlScript Summer of Code Mentor 👨🏽‍💼
-- 👨‍💻 Summer Research Intern @ [Indian Institute of Science, Bangalore (IISc)](https://www.iisc.ac.in/)
+- 👨‍💻 Research Intern @ [Indian Institute of Science, Bangalore (IISc)](https://www.iisc.ac.in/)
 - 🌱 Kaggle Master [@Kaggle](https://www.kaggle.com/chirag9073)
 - 🏆 Semi-finalist at Texas Instruments Innovation Challenge 2019 (Team Leader). 
 - 🥇 Facebook PyTorch Scholarship Winner
