@@ -30,6 +30,7 @@ Beside's developing stuff, I enjoy listening music 🎧, reading book 📚, and 
 - 🎓 GirlScript Summer of Code Mentor 👨🏽‍💼
 - 👨‍💻 Research Intern @ [Indian Institute of Science, Bangalore (IISc)](https://www.iisc.ac.in/)
 - 🌱 Kaggle Master [@Kaggle](https://www.kaggle.com/chirag9073)
+- 🏅 Top-5 Finalists in Facebook COVID-19 Symptom Data Challenge 2020.
 - 🏆 Semi-finalist at Texas Instruments Innovation Challenge 2019 (Team Leader). 
 - 🥇 Facebook PyTorch Scholarship Winner
 - 💬 Ask me about anything, I am happy to help
