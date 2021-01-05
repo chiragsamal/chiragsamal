@@ -68,8 +68,8 @@ Beside's developing stuff, I enjoy listening music 🎧, reading book 📚, and 
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=chiragsamal&repo=Microsoft-Malware-Prediction" />
 </a>
 
-<a href="https://github.com/chiragsamal/Netflix-Movies-and-TV-Shows">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=chiragsamal&repo=Netflix-Movies-and-TV-Shows" />
+<a href="https://github.com/chiragsamal/Steel-Surface-Defect-Detection">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=chiragsamal&repo=Steel-Surface-Defect-Detection" />
 </a>
 
 <a href="https://github.com/chiragsamal/Understanding-Forest-from-Space">
