@@ -55,7 +55,7 @@ Beside's developing stuff, I enjoy listening music 🎧, reading book 📚, and 
 
 
 ![Chirag's github stats](https://github-readme-stats.vercel.app/api?username=chiragsamal&show_icons=true&hide_border=true)
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chiragsamal&" alt="chiragsamal" /></p>
 
 ⭐️ Recent projects in which I have created and contributed [Chirag Samal](https://github.com/chiragsamal)
 
@@ -75,5 +75,3 @@ Beside's developing stuff, I enjoy listening music 🎧, reading book 📚, and 
 <a href="https://github.com/chiragsamal/Understanding-Forest-from-Space">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=chiragsamal&repo=Understanding-Forest-from-Space" />
 </a>
-
-
