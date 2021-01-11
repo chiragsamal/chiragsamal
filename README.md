@@ -57,21 +57,4 @@ Beside's developing stuff, I enjoy listening music 🎧, reading book 📚, and 
 ![Chirag's github stats](https://github-readme-stats.vercel.app/api?username=chiragsamal&show_icons=true&hide_border=true)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chiragsamal&" alt="chiragsamal" /></p>
 
-⭐️ Recent projects in which I have created and contributed [Chirag Samal](https://github.com/chiragsamal)
-
-
-<a href="https://github.com/chiragsamal/Zomato">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=chiragsamal&repo=Zomato" />
-</a>
-
-<a href="https://github.com/chiragsamal/Microsoft-Malware-Prediction">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=chiragsamal&repo=Microsoft-Malware-Prediction" />
-</a>
-
-<a href="https://github.com/chiragsamal/Steel-Surface-Defect-Detection">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=chiragsamal&repo=Steel-Surface-Defect-Detection" />
-</a>
-
-<a href="https://github.com/chiragsamal/Understanding-Forest-from-Space">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=chiragsamal&repo=Understanding-Forest-from-Space" />
-</a>
+⭐️ You can find more about me in my portfolio website here: [Chirag Samal](http://chiragsamal.github.io/)
