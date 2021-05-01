@@ -16,7 +16,7 @@
 <br />
 <br />
 
-Hi, I'm Chirag Samal, an undergraduate student from IIIT Naya Raipur 🚀 from India, Currently working as Research Intern 🙍🏽‍♂️ at [Indian Institute of Science, Bangalore](https://www.iisc.ac.in/) and [GSSoC'20 Mentor](https://www.gssoc.tech/) .
+Hi, I'm Chirag Samal, an undergraduate student from IIIT Naya Raipur 🚀 from India. I was working as Research Intern 🙍🏽‍♂️ at [Indian Institute of Science, Bangalore](https://www.iisc.ac.in/) and also was Project Mentor at [GSSoC'20](https://www.gssoc.tech/) .
 
 
 Beside's developing stuff, I enjoy listening music 🎧, reading book 📚, and traveling 🏝️🗻.
