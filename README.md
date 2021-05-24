@@ -16,7 +16,7 @@
 <br />
 <br />
 
-Hi, I'm Chirag Samal, an undergraduate student from IIIT Naya Raipur 🚀 from India.  Currently, working as Summer Research Intern at [Stanford University](https://www.stanford.edu/) on [NeuralProphet](http://neuralprophet.com/).
+Hi, I'm Chirag Samal, an undergraduate student from IIIT Naya Raipur 🚀 from India.  Currently, working as Summer Research Intern at [Stanford University](https://www.stanford.edu/).
 
 
 Beside's developing stuff, I enjoy listening music 🎧, reading book 📚, and traveling 🏝️🗻.
@@ -27,11 +27,11 @@ Beside's developing stuff, I enjoy listening music 🎧, reading book 📚, and 
 **Talking about Personal Stuffs/Achievements:**
 
 - ⚡️ Co-founder of The School of ML  👨🏽‍💻 
-- 🎓 GirlScript Summer of Code Mentor [GSSoC'20](https://www.gssoc.tech/) 👨🏽‍💼
+- 🎓 GirlScript Summer of Code Mentor['20](https://www.gssoc.tech/) 👨🏽‍💼
 - 👨‍💻 Research Intern @ [Indian Institute of Science, Bangalore (IISc)](https://www.iisc.ac.in/)
 - 🌱 Kaggle Master [@Kaggle](https://www.kaggle.com/chirag9073)
-- 🏅 Top-5 Finalists in Facebook COVID-19 Symptom Data Challenge 2020.
-- 🏆 Semi-finalist at Texas Instruments Innovation Challenge 2019 (Team Leader). 
+- 🏆 Top-5 Finalists in Facebook COVID-19 Symptom Data Challenge 2020.
+- ☁️ Google Cloud Ready Facilitator 
 - 🥇 Facebook PyTorch Scholarship Winner
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: chirag6891@gmail.com
