@@ -21,7 +21,7 @@ Hi, I'm Chirag Samal, an undergraduate student from IIIT Naya Raipur 🚀 from I
 
 Beside's developing stuff, I enjoy listening music 🎧, reading book 📚, and traveling 🏝️🗻.
 
-  <img align="right" alt="GIF" width="500" height="300" src="https://github.com/chiragsamal/chiragsamal/blob/master/Images/developer.gif" />
+  <img align="right" alt="GIF" width="500" height="300" src="https://github.com/chiragsamal/chiragsamal/blob/master/Images/development.gif" />
 
 **Talking about Personal Stuffs/Achievements:**
 
