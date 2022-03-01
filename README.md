@@ -1,4 +1,4 @@
-### Hey 👋, I'm [Chirag!](https://chiragsamal.github.io/chirag/)
+### Hey 👋, I'm [Chirag!](http://chiragsamal.github.io/)
 
 
 <a href="https://twitter.com/samal_chirag">
