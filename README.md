@@ -16,7 +16,7 @@
 <br />
 <br />
 
-Hi, I'm Chirag Samal, an undergraduate student from IIIT Naya Raipur 🚀 from India.  Currently, working as Computer Vision Intern at [Zeiss Vision Care R&D](https://www.zeiss.co.in/vision-care/home.html). I spent the summer of 2021 as Summer Research Intern at [Stanford University](https://www.stanford.edu/).
+Hi, I'm Chirag Samal, an undergraduate student from IIIT Naya Raipur 🚀 from India.  Currently, working as Computer Vision Engineer at [Zeiss Vision Care R&D](https://www.zeiss.co.in/vision-care/home.html). I spent the summer of 2021 as Summer Research Intern at [Stanford University](https://www.stanford.edu/).
 
 
 Beside's developing stuff, I enjoy listening music 🎧, reading book 📚, and traveling 🏝️🗻.
@@ -53,8 +53,5 @@ Beside's developing stuff, I enjoy listening music 🎧, reading book 📚, and 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-
-![Chirag's github stats](https://github-readme-stats.vercel.app/api?username=chiragsamal&show_icons=true&hide_border=true)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chiragsamal&" alt="chiragsamal" /></p>
 
 ⭐️ You can find more about me in my portfolio website here: [Chirag Samal](http://chiragsamal.github.io/)
