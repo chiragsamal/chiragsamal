@@ -16,7 +16,7 @@
 <br />
 <br />
 
-Hi, I'm Chirag Samal, an undergraduate student from IIIT Naya Raipur 🚀 from India.  Currently, working as Computer Vision Engineer at [Zeiss Vision Care R&D](https://www.zeiss.co.in/vision-care/home.html). I spent the summer of 2021 as Summer Research Intern at [Stanford University](https://www.stanford.edu/).
+Hi, I'm Chirag Samal, an undergraduate student from IIIT Naya Raipur 🚀 from India.  Currently, working as Computer Vision Engineer at [Zeiss Vision Care R&D](https://www.zeiss.co.in/vision-care/home.html). 
 
 
 Beside's developing stuff, I enjoy listening music 🎧, reading book 📚, and traveling 🏝️🗻.
